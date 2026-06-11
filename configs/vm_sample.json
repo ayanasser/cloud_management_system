@@ -1,0 +1,7 @@
+{
+  "name": "demo-vm",
+  "cpus": 2,
+  "memory_mb": 2048,
+  "disk_mb": 10240,
+  "ostype": "Ubuntu_64"
+}
